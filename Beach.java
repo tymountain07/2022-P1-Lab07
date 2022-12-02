@@ -9,8 +9,8 @@ public class Beach extends Applet {
         Sand.drawCrab(g);
 
         Ocean.drawOcean(g);
+        Ocean.drawSky(g);
         Ocean.drawWaves(g);
-        Ocean.drawFish(g);
 
         Boat.drawBody(g);
         Boat.drawSail(g);

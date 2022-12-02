@@ -7,6 +7,10 @@ public class Ocean {
 
     }
 
+    public static void drawSky(Graphics g){
+
+    }
+
     public static void drawWaves(Graphics g){
 
     }
