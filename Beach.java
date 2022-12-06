@@ -15,7 +15,7 @@ public class Beach extends Applet {
         Boat.drawBody(g);
         Boat.drawSail(g);
         Boat.drawPlank(g);
-        Boat.drawSecondsail(g);
+        Boat.drawWheel(g);
     }
 
 }
